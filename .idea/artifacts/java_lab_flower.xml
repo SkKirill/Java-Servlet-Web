@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="java_lab_flower">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="java_lab_flower.war" />
+  </artifact>
+</component>
